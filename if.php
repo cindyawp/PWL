@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$nilai = 54;
+$nilai = 85;
 if ($nilai >= 55) {
 echo "Nilai Anda $nilai, Anda LULUS";
 }
